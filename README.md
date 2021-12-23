@@ -1,4 +1,4 @@
-# Desafio-Oracle-problema-1
+# Desafio problema 1
 
  Dada uma string de entrada retorne o seguinte padrão
 
