@@ -6,6 +6,6 @@
 - Output: AAABBCBBAAA
 
 - Input: ABCD
-- Output: AAAABBBCCBBBAAAA
+- Output: AAAABBBCCDCCBBBAAAA
 
 Caso queira testar mais casos basta colocar no arquivo input.txt e rodar novamente -> node nomeArquivo.js
