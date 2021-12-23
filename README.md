@@ -8,4 +8,4 @@
 - Input: ABCD
 - Output: AAAABBBCCBBBAAAA
 
-Caso queira testar mais casos de uso basta colocar no arquivo input.txt e rodar novamente -> node nomeArquivo.js
+Caso queira testar mais casos basta colocar no arquivo input.txt e rodar novamente -> node nomeArquivo.js
